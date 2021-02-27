@@ -9,10 +9,11 @@ Moreover we supply the MATLAB scripts we used for analyzing and visualizing the 
 For developing and runnning the simulation and the scripts, we used MATLAB R2020a with the Simulink extention in a Windows 10 x64 operating system.
 
 ## Usage
-- Dynamic and Aerodynamic analysis scripts
-For the 
+The repository has two main components. 
+- A folder called scripts, which contains the dynamic and aerodynamic analysis and visualization scripts.
+- A folder called simulation, which contains the MATLAB Simulink simulation files.
 
-- MATLAB Simulink simulation
+Each file contains its own `README.md` file with dedicated instructions on how to use them.
 
 ## Dataset
 The dataset of both the dynamic and the aerodynamic experiments can be found in [Zenodo](10.5281/zenodo.4568184).
