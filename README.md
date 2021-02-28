@@ -10,9 +10,10 @@ For developing and runnning the simulation and the scripts, we used MATLAB R2020
 
 ## Usage
 The repository has three main components. 
+- A folder called `CAD`, which contains the Inventor part (.ipt) and assembly (.iam) files.
 - A folder called `scripts`, which contains the dynamic and aerodynamic analysis and visualization scripts.
 - A folder called `simulation`, which contains the MATLAB Simulink simulation files.
-- A folder called `CAD`, which contains the Inventor part (.ipt) and assembly (.iam) files.
+
 
 Each file contains its own `README.md` file with dedicated instructions on how to use them.
 
