@@ -15,7 +15,7 @@ The repository has three main components.
 - A folder called `simulation`, which contains the MATLAB Simulink simulation files.
 
 
-Each file contains its own `README.md` file with dedicated instructions on how to use them.
+Each folder contains its own `README.md` file with dedicated instructions on how to use them.
 
 ## Dataset
 The dataset of both the dynamic and the aerodynamic experiments can be found in [Zenodo](10.5281/zenodo.4568184).
