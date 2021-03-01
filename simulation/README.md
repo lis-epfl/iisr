@@ -1,6 +1,6 @@
 # Simulation
 
-Every file in that folder have to be downloaded to run the simulation successfully
+Every file in that folder has to be downloaded to run the simulation successfully
 
 To run the simulation:
 First execute, the set_params.m file with the params desired.
