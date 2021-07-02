@@ -26,9 +26,9 @@ If you use this work in an academic context, please cite the following article:
 @article{vourtsis_iisr_2021,
     title   = {Insect Inspired Self-Righting for Fixed-Wing Drones},
     author  = {Vourtsis, Charalampos and Ramirez Serrano, Francisco and Casas Rochel, Victor and Stewart, William and Floreano, Dario},
-    journal = {-},
+    journal = {IEEE Robotics and Automation Letters},
     year    = {2021},
-    pages   = {7},
+    pages   = {8},
 }
 ```
 ## License
