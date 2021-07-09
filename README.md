@@ -18,7 +18,7 @@ The repository has three main components.
 Each folder contains its own `README.md` file with dedicated instructions on how to use them.
 
 ## Dataset
-The dataset of both the dynamic and the aerodynamic experiments can be found in [Zenodo](10.5281/zenodo.4568184).
+The dataset of both the dynamic and the aerodynamic experiments can be found in [Zenodo](https://zenodo.org/record/4568184#.YKuO7qgzYuU).
 
 ## Citation 
 If you use this work in an academic context, please cite the following article:
